@@ -4,10 +4,10 @@
     var radius = circleCircum(3.14, 6)
 
 
-function circleCircum(pi, diam){
-    //Calculate Circumference
+    function circleCircum(pi, diam){
+//Calculate Circumference
     var Circumference = pi * diam
     return Circumference
-    //Return Circumference
+//Return Circumference
 }
-console.log(radius)
+console.log("The circumference of the circle is " + radius)
