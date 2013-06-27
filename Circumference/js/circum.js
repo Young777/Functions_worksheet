@@ -6,5 +6,7 @@
     //Calculate Circumference
     function circleCircum(3.14, 6){
     var Circumeference = pi * diam
+
+    //Return Circumference
 }
 
