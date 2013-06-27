@@ -1,10 +1,10 @@
 //Circumference - Shaylen Young - 06-26
 
     //Circumference of the circle
-    var radius = circleCircum(pi, diam)
+    var radius = circleCircum(3.14, 6)
 
 
-function circleCircum(3.14, 6){
+function circleCircum(pi, diam){
     //Calculate Circumference
     var Circumference = pi * diam
     return Circumference
