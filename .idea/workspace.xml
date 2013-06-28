@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9159a0ee-5953-4b7e-baca-15ba52a0ca80" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Circumference/js/circum.js" afterPath="$PROJECT_DIR$/Circumference/js/circum.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stung!/js/stung.js" afterPath="$PROJECT_DIR$/Stung!/js/stung.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Functions_worksheet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9159a0ee-5953-4b7e-baca-15ba52a0ca80" time="1372308334068" ignored="false" />
+    <file path="/Dummy.txt" changelist="9159a0ee-5953-4b7e-baca-15ba52a0ca80" time="1372380812125" ignored="false" />
     <file path="/circum.html" changelist="9159a0ee-5953-4b7e-baca-15ba52a0ca80" time="1372303315979" ignored="false" />
     <file path="/circum.js" changelist="9159a0ee-5953-4b7e-baca-15ba52a0ca80" time="1372308563039" ignored="false" />
     <file path="/stung.html" changelist="9159a0ee-5953-4b7e-baca-15ba52a0ca80" time="1372307668214" ignored="false" />
-    <file path="/stung.js" changelist="9159a0ee-5953-4b7e-baca-15ba52a0ca80" time="1372308078238" ignored="false" />
+    <file path="/stung.js" changelist="9159a0ee-5953-4b7e-baca-15ba52a0ca80" time="1372381222487" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,29 +31,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="stung.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="stung.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Stung!/js/stung.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="33" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="circum.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Circumference/circum.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="circum.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Circumference/js/circum.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="49" selection-start="323" selection-end="323" vertical-scroll-proportion="0.34031415">
-              <folding />
+            <state line="8" column="12" selection-start="130" selection-end="130" vertical-scroll-proportion="0.20942408">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,8 +71,8 @@
       <list>
         <option value="$PROJECT_DIR$/Circumference/circum.html" />
         <option value="$PROJECT_DIR$/Stung!/stung.html" />
-        <option value="$PROJECT_DIR$/Stung!/js/stung.js" />
         <option value="$PROJECT_DIR$/Circumference/js/circum.js" />
+        <option value="$PROJECT_DIR$/Stung!/js/stung.js" />
       </list>
     </option>
   </component>
@@ -125,6 +108,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -157,41 +141,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions_worksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions_worksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Circumference" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions_worksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions_worksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Circumference" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,23 +262,37 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Stung!/js/stung.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="33" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stung!/stung.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="33" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stung!/js/stung.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Circumference/circum.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="33" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Circumference/js/circum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="46" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="13" column="46" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Stung!/stung.html">
@@ -349,24 +314,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stung!/js/stung.js">
+    <entry file="file://$PROJECT_DIR$/Circumference/js/circum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="33" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="13" column="49" selection-start="323" selection-end="323" vertical-scroll-proportion="0.34031415" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Circumference/circum.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="33" selection-start="137" selection-end="137" vertical-scroll-proportion="0.24590164" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Circumference/js/circum.js">
+    <entry file="file://$PROJECT_DIR$/Stung!/js/stung.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="49" selection-start="323" selection-end="323" vertical-scroll-proportion="0.34031415">
-          <folding />
+        <state line="8" column="12" selection-start="130" selection-end="130" vertical-scroll-proportion="0.20942408">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
