@@ -9,4 +9,4 @@ function calculation (lionWeight, stingsPer){
     var stingstotal = lionWeight * stingsPer;
     return stingstotal
 }
-console.log(Stingstokill);
+console.log("It takes " + Stingstokill + " to kill a lion");
